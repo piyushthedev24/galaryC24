@@ -41,4 +41,7 @@
     content: "";
     width: 350px;
   }
-  
+  .header h1:hover {
+    color: #ff6600; /* Change to the color of your choice */
+    cursor: pointer; /* Add a pointer cursor on hover */
+}
